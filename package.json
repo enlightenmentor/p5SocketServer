@@ -1,0 +1,19 @@
+{
+  "name": "p5-socket-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "enlightnmentor@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^1.3.7"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ]
+}
